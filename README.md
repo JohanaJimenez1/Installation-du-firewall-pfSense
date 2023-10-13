@@ -21,18 +21,21 @@ configurez une adresse IP fixe.
 
 ![pfsense2](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/41317d2a-2dbe-4169-8d37-58a5bd253cca)
 
+![pfsense5](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/1990584d-28d9-45cc-bd69-b677610ae011)
+
 - Ensuite ouvrir le navigateur machine CLIENT pour poursuivre la configuration.
 écrire l'adresse IP dans la barre d'adresse. Par défaut.
 S'authentifier avec l'utilisateur **admin** et le mot de passe **pfsense**.
 
 ![pfsense3](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/5f77f2a2-8c67-4c5c-8786-643a141275cd)
 
+Pour créerune nouvelle regle clic sur **firewall** 
+selectionnez rules puis clic en LAN puis **Add** bouton vert
+
 ![pfsense4](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/bc925cbc-54c3-49c5-a8b2-c80f6e057d7d)
 
-![pfsense5](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/1990584d-28d9-45cc-bd69-b677610ae011)
-
-![pfsense6](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/4be0805c-192e-4e7f-b6de-995fb3cf0c21)
-
 ![pfsense7](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/f94e1174-2a17-4e47-8f7c-2e2bf5a1b702)
+
+![pfsense6](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/ebd1a56a-7429-458c-8b9a-9e136038b994)
 
 ![pfsense8](https://github.com/JohanaJimenez1/Installation-du-firewall-pfSense/assets/137881601/c654f5f1-a8d6-4fd9-8425-ad658f684c97)
